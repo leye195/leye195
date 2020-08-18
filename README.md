@@ -1,6 +1,7 @@
 ### Hi there 👋 🚀
 
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/leye195)](http://git-awards.com/users/leye195)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leye19556@gmail.com)](mailto:leye19556@gmail.com)
 <!--
 **leye195/leye195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
