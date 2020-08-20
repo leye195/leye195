@@ -2,6 +2,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/leye195)](http://git-awards.com/users/leye195)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leye19556@gmail.com)](mailto:leye19556@gmail.com)
+
+<details>
+  <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
+[![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)](https://github.com/leye195/github-readme-stats)
+
 <!--
 **leye195/leye195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
