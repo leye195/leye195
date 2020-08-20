@@ -6,6 +6,7 @@
 <details>
   <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
 [![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)](https://github.com/leye195/github-readme-stats)
+</details>
 
 <!--
 **leye195/leye195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
