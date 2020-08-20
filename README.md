@@ -6,7 +6,7 @@
 <details>
 <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
   
-![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true&theme=radical)
+![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 </details>
 
 <!--
