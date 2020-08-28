@@ -4,10 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leye19556@gmail.com)](mailto:leye19556@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan__yj/)](https://www.instagram.com/dan__yj/)
 <details>
-<summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
-
 Love JavaScript And Python
 
+<summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 </details>
 
