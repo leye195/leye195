@@ -6,8 +6,6 @@
 
 Love JavaScript And Python
 
-<b> [Github Stats] </b>
-
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 
 <!--
