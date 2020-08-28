@@ -6,11 +6,9 @@
 
 Love JavaScript And Python
 
-<details>
 <b> [Github Stats] </b>
-  
+
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
-</details>
 
 <!--
 **leye195/leye195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
