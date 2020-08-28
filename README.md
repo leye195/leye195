@@ -7,7 +7,7 @@
 Love JavaScript And Python
 
 <details>
-<summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
+<summary> <b> [Github Stats]  </b> </summary>
   
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 </details>
