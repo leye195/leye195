@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/leye195)](http://git-awards.com/users/leye195)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leye19556@gmail.com)](mailto:leye19556@gmail.com)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan__yj/)](https://www.instagram.com/dan__yj/)
 <details>
 <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
   
