@@ -5,11 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dan__yj/)](https://www.instagram.com/dan__yj/)
 <details>
 <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
-  
+
+Love JavaScript And Python
+
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 </details>
 
-Love JavaScript And Python
 <!--
 **leye195/leye195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
