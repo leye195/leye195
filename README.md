@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white")
 
-Love JavaScript/TypeScript And Python <br/></br>
+Love JavaScript / TypeScript And Python <br/>
 
 ![Leye195's github stats](https://github-readme-stats.vercel.app/api?username=leye195&show_icons=true)
 
