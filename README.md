@@ -9,7 +9,7 @@
 - [SuperTree](https://supertree.co) | FrontEnd Engineer (2020.10 ~ ) 
 
 ### 📝 **Blog:** 
-- [Dan DevLog](https://dantechblog.netlify.app/me)
+- [Dan DevLog](https://dantechblog.xyz)
 
 <br/>
 
