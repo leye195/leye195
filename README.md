@@ -3,7 +3,9 @@
 
 ### 🛠 **Tech Stack**
 - TypeScript | JavaScript
-- NextJS | React | Emotion | Ethers | React-Query | Redux
+- NextJS | React
+- Emotion/StyledComponent | Tailwind
+- Ethers | React-Query | Redux
 
 ### ⭐️ **Experience**
 - [SuperTree](https://supertree.co) | FrontEnd Engineer (2020.10 ~ ) 
