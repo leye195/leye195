@@ -8,7 +8,7 @@
 - Ethers | React-Query | Redux
 
 ### ⭐️ **Experience**
-- [SuperTree](https://supertree.co) | FrontEnd Engineer (2020.10 ~ ) 
+- [SuperTree](https://supertree.co) | FrontEnd Engineer (2020.10 ~ 2024.09) 
 
 ### 📝 **Blog:** 
 - [Dan DevLog](https://dantechblog.xyz)
