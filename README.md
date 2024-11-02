@@ -8,7 +8,7 @@
 - Ethers | React-Query | Redux
 
 ### ⭐️ **Experience**
-- [Adenasoft] (https://adenasoft.com) | FrontEnd Engineer (2024.10 ~ )
+- [Adenasoft](https://adenasoft.com) | FrontEnd Engineer (2024.10 ~ )
 - [SuperTree](https://supertree.co) | FrontEnd Engineer (2020.10 ~ 2024.09) 
 
 ### 📝 **Blog:** 
